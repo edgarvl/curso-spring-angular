@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/curso-spring-angular.iml" filepath="$PROJECT_DIR$/curso-spring-angular.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tasks/tasks.iml" filepath="$PROJECT_DIR$/tasks/tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasks/src/main/main.iml" filepath="$PROJECT_DIR$/tasks/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasks/src/test/test.iml" filepath="$PROJECT_DIR$/tasks/src/test/test.iml" />
     </modules>
   </component>
 </project>
